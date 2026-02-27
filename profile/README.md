@@ -42,21 +42,6 @@ Blitzy automates **80% of development work** through AI agents, leaving the crit
 
 ---
 
-## Project Lifecycle Stages
-
-Each repository is tagged with its stage in the Blitzy workflow, so you can see outputs at any point in the generation process:
-
-| Lifecycle | Description |
-|-------|-------------|
-| [![Ingestion](https://img.shields.io/badge/Stage-Ingestion-yellow)](https://docs.blitzy.com/prompt-engineering/ingestion) | Codebase mapping and dependency analysis |
-| [![Tech Spec](https://img.shields.io/badge/Stage-Tech_Spec-blue)](https://docs.blitzy.com/project-lifecycle/tech-spec-review) | Automated documentation and architecture generation |
-| [![Prompt Review](https://img.shields.io/badge/Stage-Prompt-orange)](https://docs.blitzy.com/prompt-engineering/validation-checklist) | Requirements refinement and validation |
-| [![AAP Generation](https://img.shields.io/badge/Stage-AAP-purple)](https://docs.blitzy.com/project-lifecycle/aap-review) | Architect Action Plan creation |
-| [![Project Guide Review](https://img.shields.io/badge/Stage-Review-red)](https://docs.blitzy.com/project-lifecycle/project-guide-review) | The critical 20% — human expertise applied |
-| [![Code Review](https://img.shields.io/badge/Stage-Complete-brightgreen)](https://docs.blitzy.com/project-lifecycle/code-review) | Production-ready reference implementation |
-
----
-
 ## Getting Started
 
 ### For Developers & Evaluators
