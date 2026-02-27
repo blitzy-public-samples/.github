@@ -65,7 +65,6 @@ No account required — start exploring immediately:
 
 ### For Prospective Customers
 
-- **Request a Custom Sample**: Want to see Blitzy run on a codebase similar to yours? [Contact us](https://blitzy.com/contact)
 - **Book a Live Demo**: See the platform in action with your own requirements — [schedule here](https://blitzy.com/demo)
 - **Explore Pricing**: [blitzy.com/pricing](https://blitzy.com/pricing)
 
@@ -78,7 +77,6 @@ Blitzy autonomously generates **up to 80%** of your codebase, handling:
 - Business logic and application structure
 - Boilerplate and repetitive patterns
 - Standard CRUD operations and API integrations
-- Database schemas and migrations
 - Component structures and UI scaffolding
 - Test suites and coverage
 - Inline documentation and README generation
