@@ -72,7 +72,7 @@ No account required — start exploring immediately:
 ## Key Concepts
 
 ### The 80/20 Principle
-Blitzy autonomously generates **up to 80%** of your codebase, handling:
+Blitzy autonomously completes on average **80%** of the total quantum of engineering work, handling:
 - Business logic and application structure
 - Boilerplate and repetitive patterns
 - Standard CRUD operations and API integrations
