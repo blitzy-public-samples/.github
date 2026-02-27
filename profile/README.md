@@ -117,7 +117,6 @@ The Tech Spec stays **synchronized with your code** throughout the project lifec
 
 - **General Inquiries**: [blitzy.com/contact](https://blitzy.com/contact)
 - **Customer Support**: support@blitzy.com
-- **Samples Feedback**: sandbox@blitzy.com
 - **Company Site**: [blitzy.com](https://blitzy.com)
 
 ---
@@ -127,13 +126,6 @@ The Tech Spec stays **synchronized with your code** throughout the project lifec
 ### License
 
 Individual repositories may have different licenses. Check each project's LICENSE file.
-
-### Acknowledgments
-
-Blitzy Public Samples is powered by:
-- **Blitzy Engineering**: Building the future of software development
-- **Our Customers**: Real-world projects that inform every generation model improvement
-- **Open Source Community**: The technologies that make it all possible
 
 ---
 
